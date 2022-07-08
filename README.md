@@ -10,7 +10,15 @@ TEMA: CONSTRUCCIÓN DE UN CIRCUITO DIMMER
 
 1.- OBJETIVOS.
 
-Ensamblar un circuto dimmer electrónico en un protoboard para poder regular la luminosidad de un foco de 110v.
+Objetivo general.
+
+* Ensamblar un circuto, el cual permita controlar la variación de potencia en el encendido de una bombilla.
+
+Objetivo específicos.
+
+* Armar el circuito de regulación de potencia optimizado, utilizando la menor cantidad de elementos para el desarrollo del mismo.
+
+* Comprender la aplicación que tiene el DIAC y el TRIAC dentro del funcionamiento del circuito.
 
 2.- MARCO TEORICO.
 
@@ -25,6 +33,8 @@ MATERIAL Y EQUIPO REQUERIDO.
 4.- VIDEO
 
 5.- CONCLUSIONES.
+
+* 
 
 6.- BIBLIOGRAFÍA.
 
