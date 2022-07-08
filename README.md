@@ -10,9 +10,7 @@ TEMA: CONSTRUCCIÓN DE UN CIRCUITO DIMMER
 
 1.- OBJETIVOS.
 
-Objetivo general:
-
-Objetivo específico:
+Ensamblar un circuto dimmer electrónico en un protoboard para poder regular la luminosidad de un foco de 110v.
 
 2.- MARCO TEORICO.
 
@@ -25,3 +23,8 @@ MATERIAL Y EQUIPO REQUERIDO.
 5.- CONCLUSIONES.
 
 6.- BIBLIOGRAFÍA.
+
+* Anonimo. (3 de Agosto de 2010). Electronica básica. Obtenido de Triac y diac : http://alerce.pntic.mec.es/~hmartin/electr%F3nica/componentes/Variador%20de%20Luz.htm
+
+* Electrónica Básica. (6 de Mayo de 2022). Obtenido de Circuito Dimmer o Regulador de tensión: https://electronicabasica.site/circuito-dimmer-o-regulador-de-tension-con-salida-a-triac/#:~:text=Un%20dimmer%20es%20un%20circuito,a%20mas%20o%20menos%20potencia.
+
