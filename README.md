@@ -30,6 +30,10 @@ MATERIAL Y EQUIPO REQUERIDO.
 
 ![image](https://user-images.githubusercontent.com/105722861/178050168-e8b2ee0b-f4ab-4ba5-9adc-b12d952aa26a.png)
 
+3.1 Armar el circuito.
+
+![image](https://user-images.githubusercontent.com/105722861/178056528-9f8f0db4-e96b-484b-a1a2-907964517386.png)
+
 4.- VIDEO
 
 5.- CONCLUSIONES.
