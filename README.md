@@ -20,6 +20,8 @@ Ensamblar un circuto dimmer electrónico en un protoboard para poder regular la 
 
 MATERIAL Y EQUIPO REQUERIDO.
 
+![image](https://user-images.githubusercontent.com/105722861/178050168-e8b2ee0b-f4ab-4ba5-9adc-b12d952aa26a.png)
+
 4.- VIDEO
 
 5.- CONCLUSIONES.
