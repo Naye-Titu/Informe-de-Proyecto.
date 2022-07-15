@@ -38,7 +38,9 @@ MATERIAL Y EQUIPO REQUERIDO.
 
 5.- CONCLUSIONES.
 
-* 
+*  El punto mas importatnte para el control de potencia mediante el dimmer analógico está en la elección del DIAC, pues de éste depende el recorte de potencia. Lo más importante es escogerlo dependiendo de la aplicación que se le desee dar.
+
+* El manejo del TRIAC simplemente es consecuencia del DIAC que se use, pues de es depende directamente su disparo y su accionamiento.
 
 6.- BIBLIOGRAFÍA.
 
