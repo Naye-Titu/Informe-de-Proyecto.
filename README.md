@@ -28,11 +28,29 @@ Objetivo específicos.
 
 MATERIAL Y EQUIPO REQUERIDO.
 
-![image](https://user-images.githubusercontent.com/105722861/178050168-e8b2ee0b-f4ab-4ba5-9adc-b12d952aa26a.png)
+![image](https://user-images.githubusercontent.com/105722861/180322143-a21d8df2-41af-418a-85de-eb6eac378c3d.png)
 
 3.1 Armar el circuito.
 
 ![image](https://user-images.githubusercontent.com/105722861/178056528-9f8f0db4-e96b-484b-a1a2-907964517386.png)
+
+![image](https://user-images.githubusercontent.com/105722861/180324280-53742e8e-b8e9-4bd3-9e4f-ddc1e9b6248b.png)
+
+![image](https://user-images.githubusercontent.com/105722861/180324305-e53f20b5-6177-4163-97d4-71fa54723066.png)
+
+![image](https://user-images.githubusercontent.com/105722861/180324371-e92de2cb-8a39-4620-9c6b-1bd7ef8c9604.png)
+
+Potencia mínima
+
+![image](https://user-images.githubusercontent.com/105722861/180324420-44bff994-a9e6-44a5-b238-2242e89e1d24.png)
+
+Potencia intermedia 
+
+![image](https://user-images.githubusercontent.com/105722861/180324456-f794168b-4db6-4905-8aec-4dad238d20d4.png)
+
+Potencia máxima
+
+![image](https://user-images.githubusercontent.com/105722861/180324518-21f81c90-a1fd-47a0-b0f7-319ef09157af.png)
 
 4.- VIDEO
 
